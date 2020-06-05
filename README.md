@@ -13,4 +13,4 @@ Using these python scripts, I was able to collect all of the non-penalty goals s
 league + champions league throughout their career.
 
 After combining the now formatted .csv files for both players, I used the package ggplot2 in R to produce a plot 
-of their scoring rates over their entire career. This can be found in the file MessiRonaldoPlot.png
+of their scoring rates over their entire career. This can be found in the file MessiRonaldoPlot.png, Messi in blue and Ronaldo in red.
